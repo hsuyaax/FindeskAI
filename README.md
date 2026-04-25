@@ -19,7 +19,7 @@ Built for the Indian corporate lending landscape — understands GSTR-2A vs 3B, 
 | Location | Bengaluru |
 | Date | 25 April 2026 |
 | Organizer | Lyzr |
-| Submission URL | https://www.lyzr.ai/agentathon |
+| Live App | https://findesk-fzj8mcd52-aayushkumaraak18-gmailcoms-projects.vercel.app/ |
 
 **Why this fits the "Build AI Agents" theme:** Findesk AI is a multi-agent system in production form. A Research Agent autonomously plans queries across 7 financial dimensions, a three-agent Credit Committee (Hawk / Dove / Owl) debates with formal dissent, and a CAM Generator agent synthesizes the verdict into a regulator-ready memo — all coordinated through a shared analysis context.
 
