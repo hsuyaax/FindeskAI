@@ -2,9 +2,26 @@
 
 **Smart Financial Intelligence Protocol — Automated Credit Decisioning Engine**
 
+> Built on **25 April 2026** for the **[Lyzr Agentathon 2026](https://www.lyzr.ai/agentathon)** — Agentic AI Hackathon, Bengaluru. Theme: *Build AI Agents*.
+
 Findesk AI transforms the credit appraisal process from a 3-5 day manual effort into an under-30-second automated pipeline. It ingests multi-format financial documents, performs real-time web research, runs forensic analytics, conducts a multi-agent AI debate, and produces a complete Credit Appraisal Memo (CAM) with explainable recommendations.
 
 Built for the Indian corporate lending landscape — understands GSTR-2A vs 3B, lakhs/crores, CIBIL scores, RBI compliance norms, and Schedule III balance sheet structures.
+
+---
+
+## Hackathon Context
+
+| Field | Detail |
+|-------|--------|
+| Event | Lyzr Agentathon 2026 |
+| Theme | Build AI Agents |
+| Location | Bengaluru |
+| Date | 25 April 2026 |
+| Organizer | Lyzr |
+| Submission URL | https://www.lyzr.ai/agentathon |
+
+**Why this fits the "Build AI Agents" theme:** Findesk AI is a multi-agent system in production form. A Research Agent autonomously plans queries across 7 financial dimensions, a three-agent Credit Committee (Hawk / Dove / Owl) debates with formal dissent, and a CAM Generator agent synthesizes the verdict into a regulator-ready memo — all coordinated through a shared analysis context.
 
 ---
 
